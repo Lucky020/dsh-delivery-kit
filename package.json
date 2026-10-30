@@ -1,7 +1,7 @@
 {
   "name": "dsh-delivery-kit",
-  "version": "0.3.3",
-  "description": "交付工坊：从代码仓库生成验收材料（概要设计 / 详细设计 / 数据库设计 / 使用说明书 / 测试报告 / 上线报告 / 验收报告 / 技术协议）。Delivery documents kit for DeepSeek Harness.",
+  "version": "0.3.4",
+  "description": "交付工坊：从代码仓库与运行中的系统生成验收材料（数据库设计/概要设计/详细设计/使用说明书/测试报告/上线报告/验收报告/技术协议）。Dsh plugin for delivery & acceptance documents.",
   "type": "module",
   "main": "lib/index.js",
   "exports": {
@@ -39,10 +39,20 @@
   "keywords": [
     "dsh-plugin",
     "deepseek-harness",
+    "dsh",
     "delivery",
     "acceptance",
+    "documentation",
+    "docx",
     "验收",
-    "交付文档"
+    "交付文档",
+    "验收报告",
+    "测试报告",
+    "概要设计",
+    "详细设计",
+    "数据库设计",
+    "使用说明书",
+    "技术协议"
   ],
   "license": "MIT"
 }

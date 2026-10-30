@@ -1,6 +1,25 @@
 # dsh-delivery-kit · 交付工坊
 
-把一个代码仓库变成**系统验收材料**。DeepSeek Harness 插件。
+[![npm version](https://img.shields.io/npm/v/dsh-delivery-kit?color=blue)](https://www.npmjs.com/package/dsh-delivery-kit)
+[![npm downloads](https://img.shields.io/npm/dm/dsh-delivery-kit)](https://www.npmjs.com/package/dsh-delivery-kit)
+[![license](https://img.shields.io/npm/l/dsh-delivery-kit)](./LICENSE)
+[![node](https://img.shields.io/node/v/dsh-delivery-kit)](https://nodejs.org)
+[![github stars](https://img.shields.io/github/stars/Lucky020/dsh-delivery-kit?style=social)](https://github.com/Lucky020/dsh-delivery-kit/stargazers)
+[![dsh-plugin](https://img.shields.io/badge/topic-dsh--plugin-8A2BE2)](https://github.com/topics/dsh-plugin)
+
+把**代码仓库** + **运行中的系统**变成**系统验收材料**。DeepSeek Harness 插件，本地运行，不上传代码。
+
+> 8 份文档：数据库设计 / 概要设计 / 详细设计 / 使用说明书 / 测试报告 / 上线报告 / 验收报告 / 技术协议
+
+## 它替你干的三件苦力活
+
+| 你平时怎么做 | 装了之后 |
+|---|---|
+| 翻菜单、截图、记路由，整理功能清单 | 从系统/代码自动取，35 条页面 + 路由一次到位 |
+| 使用说明书 30+ 张截图，一张张截、一张张排版 | 打开系统自动逐页截图，按章节插图 |
+| 记不住国标要求哪几章（GB/T 8567-88） | 骨架按国标走，缺章自己补不上 |
+
+**它不干的**：正文词句还是模板话，业务内容得你自己写进去——这一点不吹。
 
 ## 能生成哪些文档
 
