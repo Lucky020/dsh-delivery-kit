@@ -71,6 +71,10 @@ dsh plugin --profile web add github:Lucky020/dsh-delivery-kit
 python3 -m pip install python-docx
 ```
 
+## 篇幅原则
+
+篇幅由内容决定，不灌水：材料齐的按 25 页标准写；材料缺的该省就省，文档自然变短，不拿通用章节凑页数。
+
 ## 与 dsh-copyright-kit 的关系
 
 两者独立：**软著工坊**出软著登记材料（源程序 + 说明书），**交付工坊**出验收材料（设计/测试/上线/验收/协议）。渲染引擎各自内置，互不依赖。
