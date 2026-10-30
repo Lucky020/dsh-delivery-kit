@@ -1,5 +1,15 @@
 # Changelog
 
+## 0.3.1 — 2026-10-30
+
+### Added
+- **不依赖数据库连接的结构读取**：`schema_path` 支持建表 SQL（.sql）、字段清单（.csv/.tsv）、结构 JSON（.json）。
+  - MySQL 反引号 / PostgreSQL 双引号、行内 `COMMENT '...'`、独立 `COMMENT ON TABLE/COLUMN` 均可解析。
+  - CSV 支持中文表头（表名/字段名/类型/说明），自动兼容 `decimal(14,2)` 这类含逗号的类型。
+
+### Changed
+- 交付目录中数据库文档的取材说明改为「建表 SQL 优先」——真实项目里通常拿不到库账号。
+
 ## 0.3.0 — 2026-10-30
 
 ### Added
