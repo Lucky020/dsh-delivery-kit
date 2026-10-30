@@ -1,6 +1,6 @@
 {
   "name": "dsh-delivery-kit",
-  "version": "0.3.4",
+  "version": "0.3.5",
   "description": "交付工坊：从代码仓库与运行中的系统生成验收材料（数据库设计/概要设计/详细设计/使用说明书/测试报告/上线报告/验收报告/技术协议）。Dsh plugin for delivery & acceptance documents.",
   "type": "module",
   "main": "lib/index.js",

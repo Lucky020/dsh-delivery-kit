@@ -1,7 +1,7 @@
 # dsh-delivery-kit · 交付工坊
 
 [![npm version](https://img.shields.io/npm/v/dsh-delivery-kit?color=blue)](https://www.npmjs.com/package/dsh-delivery-kit)
-[![npm downloads](https://img.shields.io/npm/dm/dsh-delivery-kit)](https://www.npmjs.com/package/dsh-delivery-kit)
+[![last commit](https://img.shields.io/github/last-commit/Lucky020/dsh-delivery-kit)](https://github.com/Lucky020/dsh-delivery-kit/commits/main)
 [![license](https://img.shields.io/npm/l/dsh-delivery-kit)](./LICENSE)
 [![node](https://img.shields.io/node/v/dsh-delivery-kit)](https://nodejs.org)
 [![github stars](https://img.shields.io/github/stars/Lucky020/dsh-delivery-kit?style=social)](https://github.com/Lucky020/dsh-delivery-kit/stargazers)
